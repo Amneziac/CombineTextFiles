@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\bin\Debug\CombineFiles.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\bin\Debug\CombineFiles.exe
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\bin\Debug\CombineFiles.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\obj\Debug\CombineFiles.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\obj\Debug\CombineFiles.exe
+c:\users\daniel\documents\visual studio 2012\Projects\CombineFiles\CombineFiles\obj\Debug\CombineFiles.pdb
